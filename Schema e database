@@ -1,0 +1,2 @@
+CREATE SCHEMA pessoa;
+create database db_cliente;
